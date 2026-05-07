@@ -1,1 +1,2 @@
-# financial-data-science
+# Financial Data Science
+Projektkurs SoSe2026
