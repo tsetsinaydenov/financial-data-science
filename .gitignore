@@ -3,8 +3,10 @@ __pycache__/
 .ipynb_checkpoints/
 .venv/
 data/
+archive/
 
 *.py
 *.txt
 *.python-version
 *.env
+*.png
