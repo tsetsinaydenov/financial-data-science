@@ -10,3 +10,4 @@ archive/
 *.python-version
 *.env
 *.png
+*.pdf
